@@ -1,5 +1,7 @@
 TRANSCRIPCION DE CUALQUIER VIDEO DE YOUTUBE
 
+![database Analytics andesearch](https://user-images.githubusercontent.com/104275645/213613840-04100249-44b5-4dda-8aa6-adcaa4fd7fb9.png)
+
 Este proyecto, lo realicé con la finalidad de poder transcribir cualquier video de Youtube, en un formato de texto. La finalidad de este proyecto es poder colocar las transcripciones en los videos de Youtube.
 
 Primera Parte:
